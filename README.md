@@ -1,6 +1,9 @@
-# blogappfirebase
+  # Blog Application Using Flutter And Firebase For Both android and ios devices
 
 A new Flutter application.
+  
+   ### Screenshots
+ ![Screenshot](https://raw.githubusercontent.com/hbfawaz112/Blog-App-/main/a.png)
 
 ## Getting Started
 
